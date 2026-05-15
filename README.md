@@ -3,17 +3,17 @@
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Dashboard](executive_dashboard.png.png)
+![Executive Dashboard](executive_dashboard.png)
 
 ---
 
 ### Recommendation Engine
-![Recommendation Engine](recommendation_engine.png.png)
+![Recommendation Engine](recommendation_engine.png)
 
 ---
 
 ### NLP Feedback Intelligence
-![NLP Feedback](nlp_feedback.png.png)
+![NLP Feedback](nlp_feedback.png)
 
 ---
 
