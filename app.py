@@ -38,7 +38,7 @@ st.sidebar.header("Data Connection")
 
 db_path = st.sidebar.text_input(
     "SQLite database path",
-    value=DEFAULT_LOCAL_PATH
+    value="food_performance.db"
 )
 
 uploaded_file = st.sidebar.file_uploader(
