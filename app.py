@@ -33,8 +33,7 @@ st.caption(
     "experimentation, and recommendation optimisation."
 )
 
-DEFAULT_LOCAL_PATH = "/Users/muhammadzahirkhan/tails_food_performance_pilot/food_performance.db"
-
+db_path = "food_performance.db"
 st.sidebar.header("Data Connection")
 
 db_path = st.sidebar.text_input(
