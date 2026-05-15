@@ -1,35 +1,71 @@
 # AI-Powered Food Performance & Recommendation Intelligence Platform
 
-## How to Run
+## Dashboard Preview
 
-1. Make sure your SQLite database exists at:
+### Executive Overview
+![Executive Dashboard](executive_dashboard.png.png)
 
-`/Users/muhammadzahirkhan/tails_food_performance_pilot/food_performance.db`
+---
 
-2. Install requirements:
+### Recommendation Engine
+![Recommendation Engine](recommendation_engine.png.png)
 
-```bash
-pip install -r requirements.txt
-```
+---
 
-3. Run the app:
+### NLP Feedback Intelligence
+![NLP Feedback](nlp_feedback.png.png)
 
-```bash
-streamlit run app.py
-```
+---
 
-4. If the database path is different, update it in the sidebar.
+### Scenario Simulator
+![Scenario Simulator](scenario_simulator.png)
 
-You can also upload `analytical_dataset.csv` directly in the sidebar.
+---
+
+## Live Demo
+
+https://ai-food-performance-platform.streamlit.app
+
+---
+
+## Project Overview
+
+AI-powered food performance, behavioural analytics, experimentation, recommendation optimisation, QC intelligence, and decision intelligence platform built using Python, SQL, Streamlit, Plotly, and machine learning.
+
+Developed by Dr Muhammad Zahir Khan
+
+Applied Statistics | Product Analytics | Machine Learning | Decision Science
+
+---
 
 ## Main Features
 
-- Executive KPI overview
-- Recipe performance intelligence
-- Behaviour and retention analytics
-- Recommendation version evaluation
+- Executive KPI dashboard
+- Food performance intelligence
+- Behavioural retention analytics
+- Recommendation optimisation engine
+- Experimentation evaluation
 - QC / NIR manufacturing intelligence
-- Customer feedback analytics
-- AI recommendation optimisation engine
-- Scenario simulator
-- Machine learning model performance
+- NLP feedback intelligence
+- Scenario simulation
+- Machine learning model evaluation
+
+---
+
+## Technology Stack
+
+- Python
+- SQL / SQLite
+- Streamlit
+- Plotly
+- Pandas
+- Scikit-learn
+
+---
+
+## Run Locally
+
+Install requirements:
+
+```bash
+pip install -r requirements.txt
